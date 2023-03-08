@@ -2,6 +2,30 @@
 
 Global warming can affect the coral reef negatively, This can appear as missing parts or discoloring. An autonomous ROV can detect the type of the change and its position.
 
+![](https://github.com/Muhameddemadd/Find-the-difference-between-two-images/blob/master/collage1.jpg)
+
+
+# Solution:
+
+## Detecting change in the size:
+
+![](https://github.com/Muhameddemadd/Find-the-difference-between-two-images/blob/master/Vertical.jpg)
+![](https://github.com/Muhameddemadd/Find-the-difference-between-two-images/blob/master/Horizontal.jpg)
+
+## Detecting change in the color:
+![](https://github.com/Muhameddemadd/Find-the-difference-between-two-images/blob/master/vertical_tubes.png)
+![](https://github.com/Muhameddemadd/Find-the-difference-between-two-images/blob/master/horizontal_tubes.png)
+
+## Results:
+
+![](https://github.com/Muhameddemadd/Find-the-difference-between-two-images/blob/master/collage%202.jpg)
+
+## Final output
+
+![](https://github.com/Muhameddemadd/Find-the-difference-between-two-images/blob/master/result.jpg)
+
+
+
 
 
 
