@@ -9,8 +9,12 @@ Global warming can affect the coral reef negatively, This can appear as missing 
 
 ## Detecting change in the size:
 
-![](https://github.com/Muhameddemadd/Find-the-difference-between-two-images/blob/master/Vertical.jpg)
-![](https://github.com/Muhameddemadd/Find-the-difference-between-two-images/blob/master/Horizontal.jpg)
+<p align="left">
+  <img src="https://github.com/Muhameddemadd/Find-the-difference-between-two-images/blob/master/Vertical.jpg" />
+  <img src="https://github.com/Muhameddemadd/Find-the-difference-between-two-images/blob/master/Horizontal.jpg" />
+</p>
+
+
 
 ## Detecting change in the color:
 ![](https://github.com/Muhameddemadd/Find-the-difference-between-two-images/blob/master/vertical_tubes.png)
